@@ -101,4 +101,4 @@ async def disconnect(ctx):
         await ctx.send('I am not connected to a voice channel')
 
 # Run the bot
-bot.run('MTA5NTgxNDM3Mzg0NDQ1NTQzNQ.GjZW18.AdV0XbIIxPNqfxYwFvUoxzsDEt7ZrAeNnTtJ2E')
+bot.run('insert discord token here')
